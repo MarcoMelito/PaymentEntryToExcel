@@ -1,5 +1,4 @@
 from file_operation import Operation
-#from datetime import datetime, timedelta
 import tkinter
 import tkinter.messagebox
 import customtkinter
